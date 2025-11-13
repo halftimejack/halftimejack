@@ -37,7 +37,7 @@ Below are my most significant technical projects. My academic `Compiler` and `Pa
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/jack-j-b](https://linkedin.com/in/jack-j-blake)lake
+* **LinkedIn:** [linkedin.com/in/jack-j-blake](https://linkedin.com/in/jack-j-blake)
 * **Email:** [jblake4@nd.edu](mailto:jblake4@nd.edu)
 
 <!--
