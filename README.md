@@ -26,11 +26,12 @@ Below are my most significant technical projects. My academic `Compiler` and `Pa
 
 ### 🧰 Technical Skills
 
-* **Core Languages:** C, Python, Java, SQL
+* **Core Languages:** C, Python, Java, SQL, JavaScript
 * **Functional & PL Theory:** OCaml, Scheme, Clojure
-* **Systems & Hardware:** Linux, Bash, Git, Logisim, RISC-V
-* **Web & Database:** Django, Flask, MySQL, HTML/CSS/SCSS
+* **Systems & Hardware:** Linux, Bash, Git, Logisim, Raspberry Pi, RISC-V
+* **Web & Database:** Django, MySQL, HTML, CSS, SCSS
 * **Compiler & AI/ML:** Flex, Bison, PyTorch, NumPy
+* **Developer Tools:** VS Code, Vim, MATLAB, SOLIDWORKS
 
 ---
 
