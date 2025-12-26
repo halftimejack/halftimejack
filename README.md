@@ -32,13 +32,13 @@ I am a systems-focused engineer specializing in the intersection of low-level so
 - **Formal Semantics:** Applied rigorous PL theory to ensure correct reduction strategies and state management.
 - **Skills:** Python, Functional Programming, Language Semantics.
 
-#### 📂 [Public] [Flight Delay Predictor](https://github.com/halftimejack/flight-delay-predictor)
+#### 📂 [Public] [Flight Delay Predictor](https://github.com/halftimejack/notre-dame-db-project)
 *Fall 2024 | Database Concepts* A high-volume data application built to analyze and predict flight patterns using a 3-million-entry dataset.
 - Designed and optimized the **MySQL schema** for large-scale retrieval.
 - Finalized a **Python-based web scraper** (cronjob) for automated data ingestion.
 - Engineered the backend query logic in Python to interface between Flask and the SQL database.
 
-#### 📂 [Public] [Multimodal Fusion: Song Lyrics Study](https://github.com/halftimejack/multimodal-music-genre-classification)
+#### 📂 [Public] [Multimodal Fusion: Song Lyrics Study](https://github.com/halftimejack/multimodal_music_genre_classification)
 *Fall 2025 | Natural Language Processing* A large-scale NLP study analyzing the intersection of symbolic features (chords/rhyme) and lyrical content, culminating in a comprehensive technical report.
 - **Data Engineering:** Engineered a pipeline to fuse disparate datasets (chord sequences and text) for unified analysis.
 - **Technical Communication:** Authored an extensive research report detailing methodology, data normalization, and statistical findings.
