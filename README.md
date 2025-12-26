@@ -1,56 +1,62 @@
-### Hi, I'm Jack 👋
+# Hi, I'm Jack Blake 👋
 
-I'm a senior Computer Science student at the University of Notre Dame graduating in May 2026.
+**Senior Computer Science Student @ University of Notre Dame** *GPA: 3.956 | Minors: Engineering Corporate Practice & Theology*
 
-My focus is on **systems-level engineering**, including compilers, backend infrastructure, and firmware. I thrive on building fast, reliable, and efficient software that operates close to the hardware.
+I am a systems-focused engineer specializing in the intersection of low-level software architecture and high-performance financial technology. I thrive on building software that operates close to the hardware, from custom x86 compilers to distributed backend infrastructure.
 
----
-
-### 💻 Key Projects
-
-Below are my most significant technical projects. My academic `Compiler` and `Paradigms` projects are in private repositories as required by university policy, but I am happy to discuss their architecture in an interview.
-
-#### 1. [Database Concepts: Flight Delay Predictor](https://github.com/halftimejack/notre-dame-db-project) (Public)
-* A 4-person team project to predict flight delays using a MySQL database.
-* I personally designed the **database schema**, wrote **Python data-scraping scripts**, and built the **backend API layer** that interfaced between the Flask server and the SQL database.
-
-#### 2. Compiler (Private)
-* Building a complete compiler in **C** for a C-like language.
-* Implements a lexer (Flex), parser (Bison), type-checker, and **x86** code generator.
-
-#### 3. Full-Stack Web App (Private)
-* A 4-person team project for my Programming Paradigms course.
-* I designed the **MySQL** database schema and implemented the API-layer logic for our **Django** (Python) backend.
+📍 Seeking 2026 Full-Time Roles: Pittsburgh, Tampa, or Remote.
 
 ---
 
-### 🧰 Technical Skills
+### 🛠 Technical Skills
 
-* **Core Languages:** C, Python, Java, SQL, JavaScript
-* **Functional & PL Theory:** OCaml, Scheme, Clojure
-* **Systems & Hardware:** Linux, Bash, Git, Logisim, Raspberry Pi, RISC-V
-* **Web & Database:** Django, MySQL, HTML, CSS, SCSS
-* **Compiler & AI/ML:** Flex, Bison, PyTorch, NumPy
-* **Developer Tools:** VS Code, Vim, MATLAB, SOLIDWORKS
+- **Core Languages:** C, Python, SQL, Java, JavaScript
+- **Systems & Infrastructure:** Linux, Bash, Git, RPC/Replication, x86 Assembly, RISC-V, Logisim
+- **Systems & Compilers:** Flex, Bison, Abstract Syntax Trees (AST), Register Allocation
+- **Web & Data:** Django, MySQL, Flask, Web Scraping (Cronjobs)
+- **Functional Programming:** OCaml, Scheme, Clojure
 
 ---
 
-### 📫 Let's Connect
+### 🚀 Featured Projects
 
-* **LinkedIn:** [linkedin.com/in/jack-j-blake](https://linkedin.com/in/jack-j-blake)
-* **Email:** [jblake4@nd.edu](mailto:jblake4@nd.edu)
+#### 🔒 [Private] x86-64 Compiler (C)
+*Fall 2025 | Systems & Compilers Capstone* A 3,000+ line compiler for a custom C-like language.  
+- **Backend:** Architected an x86 code generator managing stack-frame allocation and register-based parameter passing.
+- **Middle-end:** Developed a robust type system with safe arrays and runtime bounds checking to ensure memory safety.
+- **Frontend:** Implemented a multi-level scoped symbol table via a linked list of hash tables to resolve identifiers across nested scopes.
 
-<!--
-**halftimejack/halftimejack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔒 [Private] Lambda Calculus Interpreter with Exceptions (Python) 
+*Fall 2025 | Theory of Programming Languages* A functional interpreter for a lambda calculus-based language featuring complex exception handling and formal operational semantics.
+- **Control Flow:** Implemented an exception-handling mechanism (try/catch logic) within a purely functional context.
+- **Formal Semantics:** Applied rigorous PL theory to ensure correct reduction strategies and state management.
+- **Skills:** Python, Functional Programming, Language Semantics.
 
-Here are some ideas to get you started:
+#### 📂 [Public] [Flight Delay Predictor](https://github.com/halftimejack/flight-delay-predictor)
+*Fall 2024 | Database Concepts* A high-volume data application built to analyze and predict flight patterns using a 3-million-entry dataset.
+- Designed and optimized the **MySQL schema** for large-scale retrieval.
+- Finalized a **Python-based web scraper** (cronjob) for automated data ingestion.
+- Engineered the backend query logic in Python to interface between Flask and the SQL database.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📂 [Public] [Multimodal Fusion: Song Lyrics Study](https://github.com/halftimejack/multimodal-music-genre-classification)
+*Fall 2025 | Natural Language Processing* A large-scale NLP study analyzing the intersection of symbolic features (chords/rhyme) and lyrical content, culminating in a comprehensive technical report.
+- **Data Engineering:** Engineered a pipeline to fuse disparate datasets (chord sequences and text) for unified analysis.
+- **Technical Communication:** Authored an extensive research report detailing methodology, data normalization, and statistical findings.
+- **Skills:** Python, NLP, Data Fusion, Technical Writing.
+
+#### 🔒 [Private] Full-Stack Marketplace (Django)
+*Spring 2025 | Programming Paradigms* - Co-designed a database schema to solve complex image-handling challenges for a multi-user e-commerce platform.
+- Implemented backend security checks and session management logic in **Django**.
+
+---
+
+### 📈 Current Spring 2026 Focus
+I am currently deep-diving into the following areas to prepare for roles in HFT and Distributed Infrastructure:
+- **Distributed Systems:** Focusing on RPC implementation, data replication (Paxos/Raft concepts), and performance measurement.
+- **HFT Technologies:** Exploring low-latency engineering, order matching engine logic, and financial accounting for developers.
+
+---
+
+### 📬 Connect with Me
+- **LinkedIn:** [linkedin.com/in/jack-j-blake](https://linkedin.com/in/jack-j-blake)
+- **Email:** jblake4@nd.edu
