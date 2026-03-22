@@ -2,9 +2,9 @@
 
 **Senior Computer Science Student @ University of Notre Dame** *GPA: 3.956 | Minors: Engineering Corporate Practice & Theology*
 
-I am a systems-focused engineer specializing in the intersection of low-level software architecture and high-performance financial technology. I thrive on building software that operates close to the hardware, from custom x86 compilers to distributed backend infrastructure.
+I am a systems-focused engineer specializing in the intersection of hardware logic and low-level software architecture. I am passionate about understanding how code translates to the "metal," from architecting x86 compilers to debugging circuit designs as a Logic Design TA.
 
-📍 Seeking 2026 Full-Time Roles: Pittsburgh, Tampa, or Remote.
+Seeking 2026 Full-Time Role
 
 ---
 
@@ -51,8 +51,8 @@ I am a systems-focused engineer specializing in the intersection of low-level so
 ---
 
 ### 📈 Current Spring 2026 Focus
-I am currently deep-diving into the following areas to prepare for roles in HFT and Distributed Infrastructure:
-- **Distributed Systems:** Focusing on RPC implementation, data replication (Paxos/Raft concepts), and performance measurement.
+I am currently deep-diving into the following areas through my coursework:
+- **Distributed Systems:** Focusing on RPC implementation, data replication, and performance measurement.
 - **HFT Technologies:** Exploring low-latency engineering, order matching engine logic, and financial accounting for developers.
 
 ---
