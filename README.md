@@ -59,4 +59,4 @@ I am currently deep-diving into the following areas through my coursework:
 
 ### 📬 Connect with Me
 - **LinkedIn:** [linkedin.com/in/jack-j-blake](https://linkedin.com/in/jack-j-blake)
-- **Email:** jblake4@nd.edu
+- **Email:** jack.j.blake.nd@gmail.com
